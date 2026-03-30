@@ -1,0 +1,171 @@
+html{
+    background-color: #5168A5;
+}
+
+.kotta-one-regular {
+  font-family: "Kotta One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sevillana-regular {
+  font-family: "Sevillana", cursive;
+  font-weight: 400;
+  font-style: regular;
+}
+
+.georama-700-normal {
+  font-family: "Georama", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.row-1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.row-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+    background-color: #A68BA5;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.mythical-image{
+    width: 100%
+}
+
+.title-container{
+    width: 100%;
+    background-color: #A68BA5;
+  
+}
+
+.title-container h1{
+    font-size: 8em;
+    font-family: "Sevillana", cursive;
+    color: #5168A5;
+    margin-top: 80px;
+    padding-left: 30px;
+}
+
+.title-container h2{
+    font-size: 3em;
+    font-family: "Kotta One", serif;
+    color: #5168A5;
+    margin-top: 80px;
+    padding-left: 30px;
+
+}
+
+.subtitle{
+    position: relative;
+    text-align: center;
+    top: 220px;
+}
+
+.sprite-image {
+  width: 200px;
+  height: 200px;
+}
+
+h2{
+    font-size: 2em;
+    font-family: "Kotta One", serif;
+    color: #F5F5F5;
+}
+
+p{
+    font-family: "Georama", sans-serif;
+    color: #F5F5F5;
+    font-size: 1.5em;
+    text-align: center;   
+}
+
+.mew-sprite{
+    width: 100%;
+    text-align: center;
+
+}
+
+.jirachi-sprite{
+    text-align: center;
+    width: 100%;
+}
+
+.row-3{
+    width: 100%;
+    text-align: center;
+}
+
+.subtitle-container {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #5985AE;
+    padding: 20px;
+    border-radius: 55px;
+}
+
+.row-4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    align-items: center;
+    place-items: center;
+}
+
+.fact-container{
+    background-color: #5985AE;
+    padding: 20px;
+    border-radius: 55px;
+    margin: 20px;
+}
+.row-5{
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    width: 100%;
+}
+
+.darkrai-img{
+    justify-self: center;
+}
+
+.long-container{
+    display: inline-block;
+    position: relative;
+    background-color: #A68BA5;
+    padding: 90px;
+    border-radius: 55px;
+    justify-self: center;
+    text-align: center;
+}
+
+.celebi-img{
+    justify-self: center;
+}
+
+.row-secret{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    align-items: center;
+}
+
+.small-text {
+    font-family: "georama", sans-serif;
+    color: #F5F5F5;
+    text-align: center;
+}
+
+.the-goat-img{
+    justify-self: center;
+}
